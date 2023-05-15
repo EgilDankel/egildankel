@@ -19,7 +19,4 @@
 Let's Connect<br>
 [![Let's Connect](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/egildankel)
 
-<img src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript" />
-<img src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript">
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="egildankel" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://no.linkedin.com/in/philippaffolter?trk=profile-badge">Egil Dankel</a></div>" />
               
