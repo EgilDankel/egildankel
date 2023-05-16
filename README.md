@@ -15,6 +15,7 @@
 -->
 [![GitHub Streak](https://streak-stats.demolab.com?user=EgilDankel&theme=blue-green&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D&card_width=800)](https://git.io/streak-stats)
 [![GitHub Streak](https://streak-stats.demolab.com?user=EgilDankel&theme=blue-green&hide_border=false&border_radius=5&date_format=j%20M%5B%20Y%5D&card_width=30)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=vgaupset&theme=blue-green&hide_border=false&border_radius=5&date_format=j%20M%5B%20Y%5D&card_width=30)](https://git.io/streak-stats)
 
 
 
