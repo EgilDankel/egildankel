@@ -16,11 +16,10 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=EgilDankel&theme=blue-green&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D&card_width=450)](https://git.io/streak-stats)
 
 
-🔭 I’m currently working on Azure, GitHub Actions and Infrastructure as Code <br>
-🌱 I’m currently learning AI/Machine Learning, Python, Powershell and React <br>
-👯 I’m looking to collaborate on AI <br> 
-💬 Ask me about DevSecOps and Infrastructure as Code <br>
-
+🔭 I’m currently working with cloud engineering working with Azure governance and compliance. <br>
+⚡ I’m currently writing my MBA master thesis on AI (Artifical intelligence) <br>
+🌱 Studying cloud computing and programming <br>
+👯 In my spare time I enjoy Music and Music technology <br> 
 
 
 
