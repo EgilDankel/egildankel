@@ -12,11 +12,6 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
--->
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=egildankel&theme=github-dark)](https://git.io/streak-stats)
-##
-![](https://komarev.com/ghpvc/?username=philippaffolter)
-
 🔭 I’m currently working with Cloud Engineering working with Azure governance and compliance. <br>
 ⚡ MBA master thesis on AI (Artifical intelligence). <br>
 🌱 Studying Cloud Computing and programming. <br>
