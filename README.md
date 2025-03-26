@@ -10,7 +10,8 @@ Let's Connect<br>
 
 ![GitHub statistics by Egil](https://github-readme-stats.vercel.app/api?username=EgilDankel&theme=nord&show_icons=true)
 <br />
-https://i.gifer.com/AQQT.gif
+![SUV4](https://github.com/user-attachments/assets/9ffe2d90-c3a7-496f-b0f9-47a111d3aae2)
+
 <details>
 <summary>Programming Languages list</summary>
 
