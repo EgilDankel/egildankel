@@ -8,8 +8,6 @@
 Let's Connect<br>
 [![Let's Connect](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/egildankel/)
 
-
-<br />
 ![SUV4](https://github.com/user-attachments/assets/9ffe2d90-c3a7-496f-b0f9-47a111d3aae2)
 
 <details>
