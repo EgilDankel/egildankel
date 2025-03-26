@@ -8,11 +8,6 @@
 Let's Connect<br>
 [![Let's Connect](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/egildankel/)
 
-</ br> 
-## My Location
-![image](https://github.com/user-attachments/assets/211a8b50-55c1-4645-ae24-5f5315df52e0)
-
-
 <details>
 <summary>Programming Languages list</summary>
 
@@ -41,3 +36,5 @@ Let's Connect<br>
  <img alt="Robot" src="https://github.com/user-attachments/assets/e8301d8a-ee3f-4c5c-a25d-48b2266a89be">
 </picture>
 
+#### My Location
+![image](https://github.com/user-attachments/assets/211a8b50-55c1-4645-ae24-5f5315df52e0)
