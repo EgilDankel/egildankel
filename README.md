@@ -1,3 +1,4 @@
+![image](https://github.com/user-attachments/assets/90cf8510-a560-4e47-9033-67e365d273b0)
 
 ### Hi there 👋 Im' Egil Dankel 
 
@@ -9,9 +10,3 @@
 Let's Connect<br>
 [![Let's Connect](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/egildankel/)
 
-</details>
-<picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/e8301d8a-ee3f-4c5c-a25d-48b2266a89be">
- <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/e8301d8a-ee3f-4c5c-a25d-48b2266a89be">
- <img alt="Robot" src="https://github.com/user-attachments/assets/e8301d8a-ee3f-4c5c-a25d-48b2266a89be">
-</picture>
