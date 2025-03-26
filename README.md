@@ -9,8 +9,7 @@ Let's Connect<br>
 [![Let's Connect](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/egildankel/)
 
 ![GitHub statistics by Egil](https://github-readme-stats.vercel.app/api?username=EgilDankel&theme=nord&show_icons=true)
-
-
+![GitHub statistics by Egil](https://github-readme-stats.vercel.app/api/top-langs/?username=EgilDankel&size_weight=0.5&count_weight=0.5)
 <details>
 <summary>Programming Languages list</summary>
 
