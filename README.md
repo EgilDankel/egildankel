@@ -9,28 +9,6 @@
 Let's Connect<br>
 [![Let's Connect](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/egildankel/)
 
-
-<details>
-<summary>Programming Languages list</summary>
-
-| Rank | Languages |
-|-----:|-----------|
-|     1| Markdown  |
-|     2| Powershell|
-|     3| Python    |
-</details>
-
-<details>
-<summary>Favorite Quotes</summary>
-
-| Quote| Author |
-|-----:|-----------|
-|     L'avenir appertient à ceux qui se lèvent tôt.| Unknown  |
-|     | |
-|     |    |
----
-
-
 </details>
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/e8301d8a-ee3f-4c5c-a25d-48b2266a89be">
