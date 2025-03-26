@@ -9,4 +9,5 @@
 Let's Connect<br>
 [![Let's Connect](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/egildankel/)
 
-![image](https://github.com/user-attachments/assets/0f333398-0825-4a37-9f53-878a8141152f)
+My Tools and languages: 
+![image](https://github.com/user-attachments/assets/7bc25b04-72f6-45e5-b7e0-09facbc15656)
