@@ -7,6 +7,7 @@
 
 Let's Connect<br>
 [![Let's Connect](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/egildankel/)
+![image](https://github.com/user-attachments/assets/d7d0332b-93cb-449e-bde4-8ebbe0cc87f1)
 
 ![GitHub statistics by Egil](https://github-readme-stats.vercel.app/api?username=EgilDankel&theme=nord&show_icons=true)
 
