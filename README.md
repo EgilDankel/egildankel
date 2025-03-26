@@ -1,3 +1,6 @@
+
+![Initialize SSH](https://github.com/user-attachments/assets/96c0d326-715c-4d1a-8315-e56ddcdbe404)
+
 ### Hi there 👋 Im' Egil Dankel 
 
 🔭 I’m currently working with Cloud Engineering working with Azure governance and compliance. <br>
@@ -8,7 +11,6 @@
 Let's Connect<br>
 [![Let's Connect](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/egildankel/)
 
-![SUV4](https://github.com/user-attachments/assets/9ffe2d90-c3a7-496f-b0f9-47a111d3aae2)
 
 <details>
 <summary>Programming Languages list</summary>
