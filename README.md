@@ -1,3 +1,8 @@
+<style>
+pre {
+font-family: "Courier New", Courier, monospace;
+}
+</style>
 ![image](https://github.com/user-attachments/assets/90cf8510-a560-4e47-9033-67e365d273b0)
 
 ### Hi there 👋 Im' Egil Dankel 
