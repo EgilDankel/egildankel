@@ -9,7 +9,7 @@ Let's Connect<br>
 [![Let's Connect](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/egildankel/)
 
 <details>
-<summary>Programming languages list</summary>
+<summary>Programming Languages list</summary>
 
 | Rank | Languages |
 |-----:|-----------|
@@ -19,9 +19,9 @@ Let's Connect<br>
 </details>
 
 <details>
-<summary>Favorite quotes</summary>
+<summary>Favorite Quotes</summary>
 
-| Rank | Languages |
+| Quote| Author |
 |-----:|-----------|
 |     L'avenir appertient à ceux qui se lèvent tôt.| Unknown  |
 |     | |
