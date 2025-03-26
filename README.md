@@ -21,8 +21,8 @@ Let's Connect<br>
         "type": "Polygon",
         "coordinates": [
           [
+            [5.6950, 58.8950],
             [5.6950, 58.8950]
-
           ]
         ]
       }
