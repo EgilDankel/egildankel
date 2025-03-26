@@ -21,11 +21,11 @@ Let's Connect<br>
         "type": "Polygon",
         "coordinates": [
           [
-              [-90,35],
-              [-90,30],
-              [-85,30],
-              [-85,35],
-              [-90,35]
+    [58.9740, 5.7300],  // Northeast
+    [58.9740, 5.7360],  // Northwest
+    [58.9640, 5.7360],  // Southwest
+    [58.9640, 5.7300],  // Southeast
+    [58.9740, 5.7300]   // Northeast (closing the box)
           ]
         ]
       }
