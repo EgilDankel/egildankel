@@ -1,5 +1,7 @@
 
 ![image](https://github.com/user-attachments/assets/90cf8510-a560-4e47-9033-67e365d273b0)
+
+![image](https://github.com/user-attachments/assets/8d453ae5-7c26-437b-a00c-0284de59ad84)
 ```
 🔭 I’m currently working with Cloud Engineering working with Azure governance and compliance. 
 ⚡ MBA master thesis on AI (Artifical intelligence). 
