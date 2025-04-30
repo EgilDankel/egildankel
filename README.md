@@ -8,5 +8,5 @@
 🌱 Studying Cloud Computing and programming. 
 👯 In my spare time I enjoy Music and Music technology, playing in Jazz big band. 
 ```
-Let's Connect<br>
+## Let's Connect<br>
 [![Let's Connect](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/egildankel/)
