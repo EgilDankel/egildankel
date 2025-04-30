@@ -14,4 +14,6 @@
 <!-- Some ideas: 
 https://dev.to/github/your-github-year-in-review-10-fun-ways-to-visualize-your-contributions-392o
 Tool to update GitHub progresss: https://github-contributions.vercel.app/
+
+Create a story each year using: https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Faiu8hx9h9iwfdu6oxrhg.png
 -->
