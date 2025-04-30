@@ -10,3 +10,8 @@
 ```
 ## Let's Connect<br>
 [![Let's Connect](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/egildankel/)
+
+<!-- Some ideas: 
+https://dev.to/github/your-github-year-in-review-10-fun-ways-to-visualize-your-contributions-392o
+Tool to update GitHub progresss: https://github-contributions.vercel.app/
+-->
