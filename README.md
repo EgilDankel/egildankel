@@ -1,6 +1,4 @@
-### Egil
 ![image](https://github.com/user-attachments/assets/90cf8510-a560-4e47-9033-67e365d273b0)
-![image](https://github.com/user-attachments/assets/8d453ae5-7c26-437b-a00c-0284de59ad84)
 
 🦁:[GitHub](https://github.com/EgilDankel) 🚁:[LinkedIn](https://www.linkedin.com/in/EgilDankel/) 🐻:[Credly](https://www.credly.com/users/egil-dankel)
 
