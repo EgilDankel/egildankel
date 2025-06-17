@@ -27,7 +27,7 @@ Create a story each year using: https://media2.dev.to/dynamic/image/width=800%2C
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=EgilDankel&show_icons=true)
 <!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=EgilDankel&theme=cobalt)](https://git.io/streak-stats) -->
 <!-- ![](https://skillicons.dev/icons?i=azure,docker,vscode,git,github,docker,bash,powershell,css,html) -->
-
+<!--
 🦁:[GitHub](https://github.com/EgilDankel) 🚁:[LinkedIn](https://www.linkedin.com/in/EgilDankel/) 🐻:[Credly](https://www.credly.com/users/egil-dankel)
 
 ### Technologies | Coding
