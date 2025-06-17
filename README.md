@@ -1,4 +1,11 @@
+### Egil
 
+🦁:[GitHub](https://github.com/paolosalvatori/EgilDankel) 🚁:[LinkedIn](https://www.linkedin.com/in/EgilDankel/) :dog:[X](https://twitter.com/babosbird) :rabbit:[Tech Community](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/988334#profile) :wolf:[Credly](https://www.credly.com/users/egil-dankel) 
+
+### Stats
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=EgilDankel&show_icons=true)
+<!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=EgilDankel&theme=cobalt)](https://git.io/streak-stats) -->
+<!-- ![](https://skillicons.dev/icons?i=azure,terraform,docker,vscode,r,py,git,github,docker,bash,powershell,css,html) -->
 ![image](https://github.com/user-attachments/assets/90cf8510-a560-4e47-9033-67e365d273b0)
 
 ![image](https://github.com/user-attachments/assets/8d453ae5-7c26-437b-a00c-0284de59ad84)
@@ -16,4 +23,20 @@ https://dev.to/github/your-github-year-in-review-10-fun-ways-to-visualize-your-c
 Tool to update GitHub progresss: https://github-contributions.vercel.app/
 
 Create a story each year using: https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Faiu8hx9h9iwfdu6oxrhg.png
+
+### 📖 Recent Articles and Samples
+
+### Current projects
+|🔮 Project | 👮 Role | ⭐ Stars | 📚 Forks | 
+|:----------|:---------|:---------|:----------| 
+
+### Photo scanned of stickers creds 
 -->
+
+### Coding
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EgilDankel&layout=compact&theme=tokyonight)
+
+### Technologies
+
+![My Skills](https://skillicons.dev/icons?i=azure,iac,vscode,visualstudio,git,github,docker,bash,powershell,css,html,)
