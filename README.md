@@ -1,6 +1,5 @@
 ![image](https://github.com/user-attachments/assets/90cf8510-a560-4e47-9033-67e365d273b0)
 
-🦁:[GitHub](https://github.com/EgilDankel) 🚁:[LinkedIn](https://www.linkedin.com/in/EgilDankel/) 🐻:[Credly](https://www.credly.com/users/egil-dankel)
 
 ```
 🔭 I’m currently working with Cloud Engineering working with Azure governance and compliance. 
@@ -8,16 +7,6 @@
 🌱 Studying Cloud Computing and programming. 
 👯 In my spare time I enjoy Music and Music technology, playing in Jazz big band. 
 ```
-### Stats
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=EgilDankel&show_icons=true)
-<!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=EgilDankel&theme=cobalt)](https://git.io/streak-stats) -->
-<!-- ![](https://skillicons.dev/icons?i=azure,docker,vscode,git,github,docker,bash,powershell,css,html) -->
-
-
-
-### Technologies | Coding
-
-![My Skills](https://skillicons.dev/icons?i=azure,vscode,visualstudio,git,github,docker,bash,powershell,css,html,)
 
 
 <!-- Some ideas: 
@@ -33,6 +22,18 @@ Create a story each year using: https://media2.dev.to/dynamic/image/width=800%2C
 |:----------|:---------|:---------|:----------| 
 
 ### Photo scanned of stickers creds 
+
+### Stats
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=EgilDankel&show_icons=true)
+<!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=EgilDankel&theme=cobalt)](https://git.io/streak-stats) -->
+<!-- ![](https://skillicons.dev/icons?i=azure,docker,vscode,git,github,docker,bash,powershell,css,html) -->
+
+🦁:[GitHub](https://github.com/EgilDankel) 🚁:[LinkedIn](https://www.linkedin.com/in/EgilDankel/) 🐻:[Credly](https://www.credly.com/users/egil-dankel)
+
+### Technologies | Coding
+
+![My Skills](https://skillicons.dev/icons?i=azure,vscode,visualstudio,git,github,docker,bash,powershell,css,html,)
+
 -->
 
 ## Let's Connect<br>
